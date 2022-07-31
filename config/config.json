@@ -1,0 +1,9 @@
+{ 
+  "apiId": "API01",
+  "mysql": {
+    "host": "",
+    "port": 3306,
+    "user": "",
+    "database": ""
+  }
+}

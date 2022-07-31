@@ -1,0 +1,14 @@
+{ 
+  "server": {
+    "host": "0.0.0.0",
+    "port": 3300
+  },
+  "logs": { 
+    "level": "debug", 
+    "logToFile": true 
+  },
+  "aeroport": {
+    "latitude": 51.4700223,
+    "longitude": -0.4542955
+  }
+}
